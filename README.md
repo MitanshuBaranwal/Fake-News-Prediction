@@ -69,15 +69,16 @@ The Random Forest classifier is chosen as the final model based on its performan
 #### MakePredictions
 A function predict_news_type is defined to take text input and predict whether the news is real or fake using the final model.
 
-Example Usage:
+## Example Usage:
 
-print(predict_news_type("Pope Francis Just Called Out Donald Trump "))
-## Output: 'The news is Real'
+      print(predict_news_type("Pope Francis Just Called Out Donald Trump for his remarks"))
+Output: 'The news is Real'
 
-print(predict_news_type("Gaza receives largest aid shipment since Israel-Hamas war began"))
-## Output: 'The news is Fake'
+      print(predict_news_type("Gaza receives largest aid shipment since Israel-Hamas war began"))
+Output: 'The news is Fake'
 Feel free to use this script for news article classification and make predictions. You can customize it further to suit your needs.
 
 ## Contact
 For any enquiries please contact me at :  
+
       mitanshubaranwal70232@gmail.com
