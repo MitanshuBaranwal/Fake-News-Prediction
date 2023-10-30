@@ -18,7 +18,7 @@ Choose the Final Model
 Make Predictions
 
 
-- [Import Dependencies](#Dependencies)
+- Dependencies](#Import Dependencies)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contact](#contact)
