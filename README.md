@@ -1,5 +1,5 @@
 ## News Article Classification
-This Python script is designed to classify news articles into two categories: real and fake. It uses machine learning techniques to perform this task. 
+This Python script is designed to classify news articles into two categories: real and fake. It uses machine learning techniques to perform this task. We are using TfIdf along with LogisticRegression, DecisionTreeClassifier, RandomForestClassifier and GradientBoostingClassifier models for this.
 
 ## Clone the repository:
    
