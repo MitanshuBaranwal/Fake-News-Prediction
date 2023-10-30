@@ -18,13 +18,13 @@ Choose the Final Model
 Make Predictions
 
 
-- [Dependencies](#Import Dependencies)
+- [Dependencies](#Dependencies)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contact](#contact)
 
   
-## Import Dependencies
+## Dependencies
 
 This section imports the necessary Python libraries and modules, including Pandas, NLTK, joblib, and scikit-learn. These libraries are used for data manipulation, text preprocessing, and machine learning.
 
