@@ -16,7 +16,16 @@ Text Vectorization
 Model Training and Evaluation
 Choose the Final Model
 Make Predictions
-1. Import Dependencies<a name="import-dependencies"></a>
+
+
+- [Dependencies](#Dependencies)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contact](#contact)
+
+  
+## Dependencies
+
 This section imports the necessary Python libraries and modules, including Pandas, NLTK, joblib, and scikit-learn. These libraries are used for data manipulation, text preprocessing, and machine learning.
 
 2. Load Dataset<a name="load-dataset"></a>
